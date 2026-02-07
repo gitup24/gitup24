@@ -7,6 +7,6 @@ Passionate about software quality and backed by 5 years of expertise in payroll 
 
     💼 Domain Expertise: Payroll Management (Silae, Sage, EBP), HRIS, Taxation.
 
-    🌍 Languages: French (Native), Dutch, Englis.
+    🌍 Languages: French (Native), Dutch, English.
 
     🎯 Goal: Developing automated testing solutions for Fintech and HR software.
